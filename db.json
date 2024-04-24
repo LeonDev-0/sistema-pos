@@ -1,0 +1,250 @@
+{
+  "productos": [
+  {
+    "id": 1,
+    "nombre": "Camiseta de algodón",
+    "precio": 10,
+    "stock": 10
+  },
+  {
+    "id": 2,
+    "nombre": "Zapatos de cuero",
+    "precio": 15,
+    "stock": 20
+  },
+  {
+    "id": 3,
+    "nombre": "Pantalones vaqueros",
+    "precio": 6,
+    "stock": 15
+  },
+  {
+    "id": 4,
+    "nombre": "Bufanda tejida",
+    "precio": 13,
+    "stock": 8
+  },
+  {
+    "id": 5,
+    "nombre": "Abrigo de invierno",
+    "precio": 23,
+    "stock": 25
+  },
+  {
+    "id": 6,
+    "nombre": "Sombrero de lana",
+    "precio": 7,
+    "stock": 18
+  },
+  {
+    "id": 7,
+    "nombre": "Bolso de cuero",
+    "precio": 11,
+    "stock": 12
+  },
+  {
+    "id": 8,
+    "nombre": "Bufanda de seda",
+    "precio": 18,
+    "stock": 30
+  },
+  {
+    "id": 9,
+    "nombre": "Guantes de piel",
+    "precio": 14,
+    "stock": 22
+  },
+  {
+    "id": 10,
+    "nombre": "Calcetines de lana",
+    "precio": 9,
+    "stock": 17
+  },
+  {
+    "id": 11,
+    "nombre": "Chaqueta de cuero",
+    "precio": 11,
+    "stock": 14
+  },
+  {
+    "id": 12,
+    "nombre": "Pantalones cortos",
+    "precio": 7,
+    "stock": 9
+  },
+  {
+    "id": 13,
+    "nombre": "Blusa de seda",
+    "precio": 24,
+    "stock": 28
+  },
+  {
+    "id": 14,
+    "nombre": "Vestido elegante",
+    "precio": 9,
+    "stock": 19
+  },
+  {
+    "id": 15,
+    "nombre": "Traje de baño",
+    "precio": 14,
+    "stock": 16
+  },
+  {
+    "id": 16,
+    "nombre": "Chaqueta de invierno",
+    "precio": 19,
+    "stock": 32
+  },
+  {
+    "id": 17,
+    "nombre": "Jersey de lana",
+    "precio": 15,
+    "stock": 24
+  },
+  {
+    "id": 18,
+    "nombre": "Vestido de verano",
+    "precio": 8,
+    "stock": 21
+  },
+  {
+    "id": 19,
+    "nombre": "Chaleco de cuero",
+    "precio": 10,
+    "stock": 13
+  },
+  {
+    "id": 20,
+    "nombre": "Gorra de béisbol",
+    "precio": 17,
+    "stock": 11
+  },
+  {
+    "id": 21,
+    "nombre": "Bañador deportivo",
+    "precio": 25,
+    "stock": 27
+  },
+  {
+    "id": 22,
+    "nombre": "Chaleco de lana",
+    "precio": 11,
+    "stock": 18
+  },
+  {
+    "id": 23,
+    "nombre": "Falda de cuero",
+    "precio": 9,
+    "stock": 23
+  },
+  {
+    "id": 24,
+    "nombre": "Pantalones de yoga",
+    "precio": 13,
+    "stock": 15
+  },
+  {
+    "id": 25,
+    "nombre": "Chaqueta deportiva",
+    "precio": 20,
+    "stock": 33
+  },
+  {
+    "id": 26,
+    "nombre": "Vestido de noche",
+    "precio": 16,
+    "stock": 25
+  },
+  {
+    "id": 27,
+    "nombre": "Camisa de franela",
+    "precio": 10,
+    "stock": 20
+  },
+  {
+    "id": 28,
+    "nombre": "Pantalones de pana",
+    "precio": 13,
+    "stock": 17
+  },
+  {
+    "id": 29,
+    "nombre": "Jersey de cachemira",
+    "precio": 7,
+    "stock": 14
+  },
+  {
+    "id": 30,
+    "nombre": "Abrigo de piel sintética",
+    "precio": 23,
+    "stock": 10
+  },
+  {
+    "id": 31,
+    "nombre": "Vestido de cóctel",
+    "precio": 10,
+    "stock": 22
+  },
+  {
+    "id": 32,
+    "nombre": "Pantalones de lino",
+    "precio": 15,
+    "stock": 16
+  },
+  {
+    "id": 33,
+    "nombre": "Jersey de punto",
+    "precio": 19,
+    "stock": 29
+  },
+  {
+    "id": 34,
+    "nombre": "Bufanda de cachemira",
+    "precio": 7,
+    "stock": 12
+  },
+  {
+    "id": 35,
+    "nombre": "Sombrero de paja",
+    "precio": 12,
+    "stock": 19
+  },
+  {
+    "id": 36,
+    "nombre": "Chaqueta de terciopelo",
+    "precio": 15,
+    "stock": 24
+  },
+  {
+    "id": 37,
+    "nombre": "Mochila de montaña",
+    "precio": 21,
+    "stock": 30
+  },
+  {
+    "id": 38,
+    "nombre": "Chaqueta de plumas",
+    "precio": 10,
+    "stock": 13
+  },
+  {
+    "id": 39,
+    "nombre": "Vestido de fiesta",
+    "precio": 12,
+    "stock": 11
+  },
+  {
+    "id": 40,
+    "nombre": "Gabardina clásica",
+    "precio": 18,
+    "stock": 15
+  },
+  {
+    "id": 41,
+    "nombre": "Chaqueta de motociclista",
+    "precio": 24,
+    "stock": 21
+  }
+  ]
+}
